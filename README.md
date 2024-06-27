@@ -9,6 +9,8 @@ D:\ALL\_DEVEL\_VIP\DOC\Anaconda\_PY\_ObjectDetect\_Tensor\_ORANGE\How2 ADPS\_ana
 
 Local: D :/ ALL\_PROJECT/a\_Factory/\_AnomalySSIM/py38
 
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.001.png)
+
 **Why thisExperiment ?**
 
 The background for this experiment is/was the task of detecting anomalies in objects without any training material ( eg there is not enough input for classical machine learning !) 
@@ -22,22 +24,17 @@ The background for this experiment is/was the task of detecting anomalies in obj
 
 
 
-The complete experiment ( code ) is available in Github !
-
-Tested under **python 3.8** / Spyder / Anaconda / Win10
+The complete experiment ( code ) is available in Github ! Tested under **python 3.8** / Spyder / Anaconda / Win10
 
 EXE file:
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.001.png) import this in auto- py -to-exe ( MUST adapt the path etc..)
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.002.png) import this in auto- py -to-exe ( MUST adapt the path etc..)
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.002.png)
-
-
-**
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.003.png)**
 
 **Conclusion (28.04.25)**
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.003.png) 
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.004.png) 
 
 **Pro:**
 
@@ -66,20 +63,20 @@ Studying in parallel we of course other Methods of anomaly detection .. e.g .: *
 
 Main window (mdiMain.py)
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.004.png)
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.005.png)
 
 setupMain.py
 
 teaching in the reference images
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.005.png)
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.006.png)
 
 
 anomalyMain.py
 
 The anomaly is detected perfectly via ssim ! BUT please read the **conclusion (CON)** !
 
-![](Aspose.Words.a5c4c155-2229-46da-a647-9325ec6f87e0.006.png)
+![](Aspose.Words.47c0eed7-513f-4137-af6b-2f749b2020ff.007.png)
 
 
 
