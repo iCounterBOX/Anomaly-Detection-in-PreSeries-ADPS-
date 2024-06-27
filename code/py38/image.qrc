@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/target.jpg</file>
+    <file>images/cv2FilterSymbol.png</file>
+    <file>images/detectedAnomaly.png</file>
+    <file>images/originalObject.png</file>
+    <file>images/preview.png</file>
+    <file>images/webcam.png</file>
+    <file>images/webcam_icon.png</file>
+    <file>images/webcamPreviewMini.png</file>
+  </qresource>
+</RCC>
